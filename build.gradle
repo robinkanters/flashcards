@@ -20,4 +20,6 @@ repositories {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jre8:$kotlin_version"
+
+    compile 'org.apache.pdfbox:pdfbox:2.0.4'
 }
